@@ -1,0 +1,10 @@
+# Ignore Python cache & environment files
+__pycache__/
+*.pyc
+venv/
+
+# Ignore API keys & environment variables
+backend/.env
+
+# Ignore Node.js dependencies (if any)
+node_modules/
